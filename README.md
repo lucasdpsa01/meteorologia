@@ -1,7 +1,7 @@
 # Documento de Arquitetura de Software
 
 ## 1. Introdução
-Este documento descreve a arquitetura de software de uma aplicação de previsão do tempo, desenvolvida utilizando HTML, CSS, JavaScript, React e Vite. O objetivo é criar uma interface que exibe a temperatura atual e previsões futuras, inicialmente com dados fictícios, mas preparada para integração futura com APIs externas.
+Este documento descreve a arquitetura de software de uma aplicação de previsão do tempo, desenvolvida utilizando HTML, CSS, JavaScript, React e Vite. O objetivo é criar uma interface que exibe a temperatura atual e previsões futuras, inicialmente com dados fictícios.
 
 ## 1.1 Finalidade
 O software será um projeto desenvolvido no curso de JavaScript, permitindo ao aluno aplicar seus conhecimentos em tecnologias web. O documento serve como referência para a estrutura e funcionamento do sistema.
@@ -9,7 +9,7 @@ O software será um projeto desenvolvido no curso de JavaScript, permitindo ao a
 ## 1.2 Escopo
 A aplicação apresentará:
 Um card com a cidade do usuário e a temperatura atual.
-Um container com previsão para os próximos cinco dias, exibindo data, temperatura mínima e máxima.
+Um container com previsão para os próximos dias, exibindo data, temperatura mínima e máxima.
 
 ## 1.3 Definições, Acrônimos e Abreviações
 React: Biblioteca JavaScript para criação de interfaces.
